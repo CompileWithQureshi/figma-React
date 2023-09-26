@@ -1,6 +1,7 @@
+/* eslint-disable react/prop-types */
 const Nav = ({ tilte }) => {
   const title = tilte;
-  console.log(tilte);
+  // console.log(tilte);
 
   return (
     <>

@@ -9,8 +9,8 @@ export default function App() {
   return (
     <>
       <div
-        className="grid ju bg-[#907CFF] max-w-2xl mx-auto h-screen items-stretch mt-5
-    rounded-md  leading-6 overflow-auto gap-9"
+        className="grid  bg-[#907CFF]  mx-auto h-full h mt-5
+    rounded-md  leading-6   gap-9  md:bg-black  max-w-[306px]  md:max-w-4xl md:space-x-7"
       >
         <Nav tilte={{ name: "Quick tips" }} />
 
